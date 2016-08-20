@@ -1,0 +1,24 @@
+*{
+    margin: 2px;
+    padding: 2px;
+    font-family: 'Lato', sans-serif;
+}
+.row{
+    display: flex;
+}
+
+hr{
+    display: block;
+    size: 2px;
+    width: 100%;
+}
+
+.prj_img{
+    width: 400px;
+    height: 200px;
+}
+
+.big_img{
+    width: 1140px;
+    height: 415px;
+}
